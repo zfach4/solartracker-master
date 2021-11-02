@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NodeMCU_SolarTracking",
+			"path": "..\\..\\NodeMCU_SolarTracking"
+		},
+		{
+			"name": "NodeMCU_Master_Firebase",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
